@@ -1,5 +1,5 @@
 <h1 align="center">❯_ Hello World 👩🏻‍💻 It's Carly!</h1>
-<h3 align="center">A passionfruit(?what?) junior full-stack developer!</h3>
+<h3 align="center">A passion<s>fruit</s>ate junior full-stack developer!</h3>
 
 - 🔭 I’m currently working on [Devder](http://www.devder.me/)
 
