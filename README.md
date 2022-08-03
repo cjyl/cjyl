@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **carly.jy.luo@gmail.com**
 
-- ⚡ Fun fact **I never let aubergine know that they are actually categorised as fruit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
