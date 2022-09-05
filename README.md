@@ -1,12 +1,6 @@
 <h1 align="center">❯_ Hello World 👩🏻‍💻 It's Carly!</h1>
 <h3 align="center">A <s>passionfruit</s> passionate junior full-stack developer!</h3>
 
-- 🔭 I’m currently working on [Devder](http://www.devder.me/)
-
-- 🌱 I’m currently learning **Javascript, React, Python**
-
-- 📫 How to reach me **carly.jy.luo@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
